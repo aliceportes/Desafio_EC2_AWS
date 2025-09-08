@@ -20,12 +20,12 @@ Este repositório reúne meus resumos de estudo sobre os principais serviços do
 - **EBS** → armazenamento em blocos, como um “HD externo” para EC2.  
 - **S3** → armazenamento de objetos, com políticas de ciclo de vida.  
 
-Os detalhes completos de cada serviço estão organizados na pasta *notes*.
+Os detalhes completos de cada serviço estão organizados na pasta **notes**.
 
 ---
 
 ## Diagramas incluídos
-Os diagramas utilizados no desafio estão disponíveis na pasta *images*:
+Os diagramas utilizados no desafio estão disponíveis na pasta **images**:
 
 - Arquitetura S3 + Lambda + DynamoDB (`Desafio S3-LAMBDA.png`)
 - Arquitetura EC2 + EBS + RDS (`Desafio EBS-EC2.png`)
