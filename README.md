@@ -1,4 +1,4 @@
-# Desafio_Gerenciando_Instancias_EC2_na_AWS
+# Desafio Gerenciando Instancias EC2 na AWS
 
 Repositório criado para documentar os aprendizados do módulo **Computação na Nuvem com EC2** do Bootcamp Santander Code Girls - 2025.
 
@@ -45,3 +45,12 @@ Os diagramas utilizados no desafio estão disponíveis na pasta **images**:
 
 - [Gerenciando EC2 Instâncias da Amazon (Toolkit for Visual Studio)](https://docs.aws.amazon.com/pt_br/toolkit-for-visual-studio/latest/user-guide/tkv-ec2-ami.html)  
   Documentação oficial da AWS sobre criação e uso de AMIs.
+
+---
+
+## Conclusão
+
+Este desafio fez parte do **Módulo 2 - Computação na Nuvem com EC2** do Bootcamp Santander Code Girls - 2025.  
+Foi uma ótima oportunidade para consolidar conceitos de **EC2, EBS, AMIs, Snapshots e S3**, além de refletir sobre otimização de custos na nuvem.  
+
+Ainda há muito caminho pela frente no aprendizado de AWS, mas esse módulo foi um passo importante dentro do bootcamp e uma base sólida para avançar nos próximos módulos.
