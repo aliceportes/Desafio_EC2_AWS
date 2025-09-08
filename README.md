@@ -7,7 +7,7 @@ Aqui compartilho minhas anotações e insights sobre **EC2, EBS, S3 e Otimizaç�
 ---
 
 ## Estrutura
--  [`/notes`](./notes) → anotações curtas por serviço.
+- [`/notes`](./notes) → anotações curtas por serviço.
 - [`/images`](./images) → diagramas do desafio.
 
 ---
@@ -20,12 +20,12 @@ Este repositório reúne meus resumos de estudo sobre os principais serviços do
 - **EBS** → armazenamento em blocos, como um “HD externo” para EC2.  
 - **S3** → armazenamento de objetos, com políticas de ciclo de vida.  
 
-Os detalhes completos de cada serviço estão organizados na pasta [`/notes`](./notes).
+Os detalhes completos de cada serviço estão organizados na pasta *notes*.
 
 ---
 
 ## Diagramas incluídos
-Os diagramas utilizados no desafio estão na pasta [`/images`](./images):
+Os diagramas utilizados no desafio estão disponíveis na pasta *images*:
 
 - Arquitetura S3 + Lambda + DynamoDB (`Desafio S3-LAMBDA.png`)
 - Arquitetura EC2 + EBS + RDS (`Desafio EBS-EC2.png`)
