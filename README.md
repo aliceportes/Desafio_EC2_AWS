@@ -7,8 +7,8 @@ Aqui compartilho minhas anotações e insights sobre **EC2, EBS, S3 e Otimizaç�
 ---
 
 ## Estrutura
-- `notes/` → anotações curtas por serviço.
-- `images/` → diagramas do desafio.
+-  [`/notes`](./notes) → anotações curtas por serviço.
+- [`/images`](./images) → diagramas do desafio.
 
 ---
 
